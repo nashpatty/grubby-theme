@@ -1,0 +1,22 @@
+{
+  "name": "grubby-theme",
+  "displayName": "grubby-theme",
+  "description": "Earthy theme inspired by gruvbox.",
+  "publisher": "nashpatty",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Grubby Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Grubby Theme-color-theme.json"
+      }
+    ]
+  }
+}
