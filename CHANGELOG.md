@@ -12,3 +12,7 @@
 
 - Added repository link
 - Added bug tracker
+
+## [0.0.4]
+
+- Fixed some tokens
