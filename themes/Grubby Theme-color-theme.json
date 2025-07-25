@@ -44,7 +44,7 @@
             "name": "keyword or other syntax",
             "scope": "punctuation.terminator,constant.character.escape,punctuation.quasi.element",
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -100,7 +100,7 @@
         {
             "scope": "constant.language",
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -123,7 +123,7 @@
         {
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -132,7 +132,7 @@
                 "entity.name.tag.less"
             ],
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -154,7 +154,7 @@
                 "entity.other.attribute-name.scss"
             ],
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -173,14 +173,14 @@
             "scope": "markup.bold",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
             "scope": "markup.heading",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -210,7 +210,7 @@
         {
             "scope": "markup.changed",
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -244,7 +244,7 @@
                 "entity.name.function.preprocessor"
             ],
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -262,19 +262,19 @@
         {
             "scope": "meta.diff.header",
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
             "scope": "storage",
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
             "scope": "storage.type",
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -283,7 +283,7 @@
                 "keyword.operator.noexcept"
             ],
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -321,7 +321,7 @@
                 "punctuation.section.embedded"
             ],
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -347,13 +347,13 @@
         {
             "scope": "keyword",
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
             "scope": "keyword.control",
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -376,7 +376,7 @@
                 "keyword.operator.wordlike"
             ],
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -391,7 +391,7 @@
                 "punctuation.section.embedded.end.php"
             ],
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
@@ -415,7 +415,7 @@
             "name": "this.self",
             "scope": "variable.language",
             "settings": {
-                "foreground": "#d65d0e"
+                "foreground": "#CC7832"
             }
         },
         {
