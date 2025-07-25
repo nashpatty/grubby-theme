@@ -23,3 +23,7 @@
 - Changed numerics from pink to cyan
 - Updated backgroundd
 - Fixed some more tokens to be more accurate with palette
+
+## [1.0.0]
+
+- Updated to the modern ui color scheme
