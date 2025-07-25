@@ -16,3 +16,10 @@
 ## [0.0.4]
 
 - Fixed some tokens
+
+## [0.0.5]
+
+- Made the colors 'earthier'
+- Changed numerics from pink to cyan
+- Updated backgroundd
+- Fixed some more tokens to be more accurate with palette
