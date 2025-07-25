@@ -115,7 +115,7 @@
         {
             "scope": "constant.regexp",
             "settings": {
-                "foreground": "#b16286"
+                "foreground": "#d65d0e"
             }
         },
         {
@@ -158,7 +158,7 @@
         {
             "scope": "invalid",
             "settings": {
-                "foreground": "#db4934"
+                "foreground": "#cc241d"
             }
         },
         {
@@ -214,7 +214,7 @@
         {
             "scope": "punctuation.definition.quote.begin.markdown",
             "settings": {
-                "foreground": "#79740e"
+                "foreground": "#b8bb26"
             }
         },
         {
