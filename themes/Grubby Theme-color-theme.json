@@ -231,7 +231,8 @@
                 "constant.numeric",
                 "variable.other.enummember",
                 "keyword.operator.plus.exponent",
-                "keyword.operator.minus.exponent"
+                "keyword.operator.minus.exponent",
+                "variable.other.constant"
             ],
             "settings": {
                 "foreground": "#8ec07c"
