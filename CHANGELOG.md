@@ -38,3 +38,7 @@
 # [1.1.0]
 
 - Added Grubby Contrast
+
+# [1.1.1]
+
+- Modified background colors for terminal and Grubby Contrast
