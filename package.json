@@ -20,7 +20,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Grubby Theme",
+                "label": "Grubby",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Grubby Theme-color-theme.json"
             }
