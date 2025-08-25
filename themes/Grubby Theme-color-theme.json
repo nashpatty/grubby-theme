@@ -130,7 +130,7 @@
         "editorBracketMatch.border": "#7c6f64",
         "editorBracketHighlight.unexpectedBracket.foreground": "#9d0006",
         "editor.wordHighlightBackground": "#32593d99",
-        "editor.wordHighlightStrongBackground": "#532b2e99",
+        "editor.wordHighlightStrongBackground": "#532b2ecc",
         "editorIndentGuide.background1": "#50494566",
         "editorIndentGuide.activeBackground1": "#665c54",
         "editorRuler.foreground": "#3c3836",
