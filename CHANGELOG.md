@@ -27,3 +27,10 @@
 ## [1.0.0]
 
 - Updated to the modern ui color scheme
+
+# [1.0.1]
+
+- Increase visibility of strong word highlight background
+- Increase visibility of selection highlight
+- Add token highlights for built in constants
+- Add token highlights for entities
