@@ -23,6 +23,11 @@
                 "label": "Grubby",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Grubby Theme-color-theme.json"
+            },
+            {
+                "label": "Grubby Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Grubby Theme-Darker-color-theme.json"
             }
         ]
     }
