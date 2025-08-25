@@ -34,3 +34,7 @@
 - Increase visibility of selection highlight
 - Add token highlights for built in constants
 - Add token highlights for entities
+
+# [1.1.0]
+
+- Added Grubby Contrast
