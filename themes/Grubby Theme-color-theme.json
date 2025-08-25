@@ -152,7 +152,7 @@
         "terminal.ansiRed": "#fb4934",
         "terminal.ansiWhite": "#f9f5d7",
         "terminal.ansiYellow": "#D79921",
-        "terminal.background": "#1d2021",
+        "terminal.background": "#1D2020",
         "terminal.foreground": "#ebdbb2",
     },
     "tokenColors": [
