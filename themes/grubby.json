@@ -412,7 +412,7 @@
         {
             "scope": [
                 "string",
-                "meta.embedded.assembly",
+                "meta.embedded.assembly"
             ],
             "settings": {
                 "foreground": "#b8bb26"
@@ -545,7 +545,7 @@
             "name": "built in properties",
             "scope": [
                 "support.constant.property-value",
-                "keyword.control.at-rule",
+                "keyword.control.at-rule"
             ],
             "settings": {
                 "foreground": "#d79921"
