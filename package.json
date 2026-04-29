@@ -22,12 +22,22 @@
             {
                 "label": "Grubby",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Grubby Theme-color-theme.json"
+                "path": "./themes/grubby.json"
+            },
+            {
+                "label": "Grubby Minimal Syntax",
+                "uiTheme": "vs-dark",
+                "path": "./themes/grubby_min.json"
             },
             {
                 "label": "Grubby Contrast",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Grubby Theme-Darker-color-theme.json"
+                "path": "./themes/grubby_darker.json"
+            },
+            {
+                "label": "Grubby Minimal Syntax Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/grubby_min_darker.json"
             }
         ]
     }
