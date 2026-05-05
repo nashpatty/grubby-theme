@@ -47,3 +47,7 @@
 
 - Modified colors for base grubby and grubby contrast
 - Added a minimal syntax variety
+
+# [1.2.1]
+
+- Added highlights to support functions
