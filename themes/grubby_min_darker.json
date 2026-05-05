@@ -205,7 +205,7 @@
         },
         {
             "name": "Global definitions",
-            "scope": "entity.name",
+            "scope": "entity.name,support.function",
             "settings": {
                 "foreground": "#d79921"
             }
