@@ -120,7 +120,7 @@
         "welcomePage.progress.foreground": "#0078D4",
         "widget.border": "#313131",
         "editor.background": "#282828",
-        "editor.foreground": "#ebdbb2",
+        "editor.foreground": "#d5c4a1",
         "editor.selectionBackground": "#07667880",
         "editorWhitespace.foreground": "#504945",
         "editor.lineHighlightBorder": "#32302f",
@@ -153,14 +153,14 @@
         "terminal.ansiWhite": "#f9f5d7",
         "terminal.ansiYellow": "#D79921",
         "terminal.background": "#282828",
-        "terminal.foreground": "#ebdbb2"
+        "terminal.foreground": "#d5c4a1"
     },
     "tokenColors": [
         {
             "name": "remove highlights",
             "scope": ["entity.name.variable"],
             "settings": {
-                "foreground": "#ebdbb2"
+                "foreground": "#d5c4a1"
             }
         },
         {
@@ -227,9 +227,9 @@
     ],
     "semanticHighlighting": true,
     "semanticTokenColors": {
-        "newOperator": "#ebdbb2",
+        "newOperator": "#d5c4a1",
         "stringLiteral": "#b8bb26",
-        "customLiteral": "#ebdbb2",
+        "customLiteral": "#d5c4a1",
         "numberLiteral": "#8ec07c"
     }
 }
