@@ -51,3 +51,7 @@
 # [1.2.1]
 
 - Added highlights to support functions
+
+# [1.2.2]
+
+- Changed terminal background color of low contrast grubby themes
