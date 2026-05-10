@@ -55,3 +55,7 @@
 # [1.2.2]
 
 - Changed terminal background color of low contrast grubby themes
+
+# [1.2.3]
+
+- modified background colors

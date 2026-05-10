@@ -10,7 +10,7 @@
     "bugs": {
         "url": "https://github.com/nashpatty/grubby-theme/issues"
     },
-    "version": "1.2.2",
+    "version": "1.2.3",
     "engines": {
         "vscode": "^1.0.0"
     },
