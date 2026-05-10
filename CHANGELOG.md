@@ -60,8 +60,12 @@
 
 - modified background colors
 
-# [1.2.3]
+# [1.2.4]
 
 - modified background colors again
 - changed yellow to a brighter yellow
 - removed some find and match word highlights
+
+# [1.2.5]
+
+- forgot to update the yellows in dark and dark minimal syntax
