@@ -59,3 +59,9 @@
 # [1.2.3]
 
 - modified background colors
+
+# [1.2.3]
+
+- modified background colors again
+- changed yellow to a brighter yellow
+- removed some find and match word highlights
