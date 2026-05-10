@@ -28,8 +28,6 @@
         "dropdown.foreground": "#CCCCCC",
         "dropdown.listBackground": "#1F1F1F",
         "editor.background": "#1a1c1e",
-        "editor.findMatchBackground": "#af3a0380",
-        "editor.findMatchHighlightBackground": "#D799214D",
         "editor.foreground": "#d5c4a1",
         "editor.lineHighlightBorder": "#32302f",
         "editor.selectionBackground": "#07667880",
