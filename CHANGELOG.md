@@ -69,3 +69,7 @@
 # [1.2.5]
 
 - forgot to update the yellows in dark and dark minimal syntax
+
+# [1.2.6]
+
+- changed the colors back to their less 'blue' varieties
